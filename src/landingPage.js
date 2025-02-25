@@ -294,7 +294,7 @@ const verificarHorarioDisponivel = (dataSelecionada, horaSelecionada, diaDaSeman
         setDesc(data.descricao || "")
         setDatabaseTeste(data.inicio_teste)
         setPago(data.pago? data.pago : false)
-        setPortImgs(data.portifolio_imgs? JSON.parse(data.portifolio_imgs) : [])
+        setPortImgs(data.portifolio_imgs? JSON.parse(data.portifolio_imgs) : null)
 
         if (horarios.seg[0] != horarios.seg[1]){
           setSeg(true)
@@ -600,7 +600,7 @@ const verificarHorarioDisponivel = (dataSelecionada, horaSelecionada, diaDaSeman
             Verificar horários
           </button>
           <MapEmbed street={map} />
-          {portImgs != [] ? <>
+          {portImgs ? <>
           <h1>Portifólio</h1>
           <div className="portfolio-container">
             <button className="scroll-button prev" onClick={scrollLeftFunctio}>←</button>
