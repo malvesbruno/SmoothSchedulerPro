@@ -184,7 +184,7 @@ const addCompanyBasic = async (id, company, url_image, descricao, categoria, loc
       instagram: instagram || null,
       telefone: telefone || null,
       inicio_teste: new Date().toISOString(),
-      pago: false
+      pago: true
     };
 
     const docRef = await addDoc(collection(db, 'Company'), data);
