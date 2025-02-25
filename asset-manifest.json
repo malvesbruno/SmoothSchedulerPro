@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.2ccca5ee.css",
-    "main.js": "/static/js/main.8b91da18.js",
-    "static/js/453.a6a97343.chunk.js": "/static/js/453.a6a97343.chunk.js",
-    "static/media/mountain.jpg": "/static/media/mountain.8d210d41e439bef0b4da.jpg",
-    "static/media/background.png": "/static/media/background.775fb27837c24612da89.png",
-    "static/media/icon_black_frase.png": "/static/media/icon_black_frase.e04d30132426634baafd.png",
-    "static/media/icon_black.png": "/static/media/icon_black.19be150de22df7947f01.png",
-    "static/media/icon_orange.png": "/static/media/icon_orange.3ff02519b5ad688f8e32.png",
-    "static/media/solucao.png": "/static/media/solucao.a545f980b29ffd50f5f1.png",
-    "index.html": "/index.html",
-    "main.2ccca5ee.css.map": "/static/css/main.2ccca5ee.css.map",
-    "main.8b91da18.js.map": "/static/js/main.8b91da18.js.map",
-    "453.a6a97343.chunk.js.map": "/static/js/453.a6a97343.chunk.js.map"
+    "main.css": "/SmoothSchedulerPro/static/css/main.6204ea11.css",
+    "main.js": "/SmoothSchedulerPro/static/js/main.53019514.js",
+    "static/js/453.a6a97343.chunk.js": "/SmoothSchedulerPro/static/js/453.a6a97343.chunk.js",
+    "static/media/mountain.jpg": "/SmoothSchedulerPro/static/media/mountain.8d210d41e439bef0b4da.jpg",
+    "static/media/background.png": "/SmoothSchedulerPro/static/media/background.775fb27837c24612da89.png",
+    "static/media/icon_black_frase.png": "/SmoothSchedulerPro/static/media/icon_black_frase.e04d30132426634baafd.png",
+    "static/media/icon_black.png": "/SmoothSchedulerPro/static/media/icon_black.19be150de22df7947f01.png",
+    "static/media/icon_orange.png": "/SmoothSchedulerPro/static/media/icon_orange.3ff02519b5ad688f8e32.png",
+    "static/media/solucao.png": "/SmoothSchedulerPro/static/media/solucao.a545f980b29ffd50f5f1.png",
+    "index.html": "/SmoothSchedulerPro/index.html",
+    "main.6204ea11.css.map": "/SmoothSchedulerPro/static/css/main.6204ea11.css.map",
+    "main.53019514.js.map": "/SmoothSchedulerPro/static/js/main.53019514.js.map",
+    "453.a6a97343.chunk.js.map": "/SmoothSchedulerPro/static/js/453.a6a97343.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2ccca5ee.css",
-    "static/js/main.8b91da18.js"
+    "static/css/main.6204ea11.css",
+    "static/js/main.53019514.js"
   ]
 }
