@@ -600,6 +600,7 @@ const verificarHorarioDisponivel = (dataSelecionada, horaSelecionada, diaDaSeman
             Verificar horários
           </button>
           <MapEmbed street={map} />
+          {portImgs != [] ? <>
           <h1>Portifólio</h1>
           <div className="portfolio-container">
             <button className="scroll-button prev" onClick={scrollLeftFunctio}>←</button>
@@ -613,6 +614,8 @@ const verificarHorarioDisponivel = (dataSelecionada, horaSelecionada, diaDaSeman
             </div>
             <button className="scroll-button next" onClick={scrollRightFunction}>→</button>
           </div>
+          </>
+  : null}
           <h1>Serviços</h1>
           <table>
             <thead>
